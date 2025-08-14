@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\durmu\\OneDrive\\Documents\\BlurApi-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E67AA5BA-B18D-EC5B-757B-831E5631F431}|BlurApi.csproj|c:\\users\\durmu\\onedrive\\documents\\blurapi-main\\blurapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E67AA5BA-B18D-EC5B-757B-831E5631F431}|BlurApi.csproj|solutionrelative:blurapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E67AA5BA-B18D-EC5B-757B-831E5631F431}|BlurApi.csproj|c:\\users\\durmu\\onedrive\\documents\\blurapi-main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E67AA5BA-B18D-EC5B-757B-831E5631F431}|BlurApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E67AA5BA-B18D-EC5B-757B-831E5631F431}|BlurApi.csproj|c:\\users\\durmu\\onedrive\\documents\\blurapi-main\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E67AA5BA-B18D-EC5B-757B-831E5631F431}|BlurApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E67AA5BA-B18D-EC5B-757B-831E5631F431}|BlurApi.csproj|c:\\users\\durmu\\onedrive\\documents\\blurapi-main\\controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E67AA5BA-B18D-EC5B-757B-831E5631F431}|BlurApi.csproj|solutionrelative:controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlurApi",
+              "DocumentMoniker": "C:\\Users\\durmu\\OneDrive\\Documents\\BlurApi-main\\BlurApi.csproj",
+              "RelativeDocumentMoniker": "BlurApi.csproj",
+              "ToolTip": "C:\\Users\\durmu\\OneDrive\\Documents\\BlurApi-main\\BlurApi.csproj",
+              "RelativeToolTip": "BlurApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-14T17:55:45.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\durmu\\OneDrive\\Documents\\BlurApi-main\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\durmu\\OneDrive\\Documents\\BlurApi-main\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-14T17:54:30.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\durmu\\OneDrive\\Documents\\BlurApi-main\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\durmu\\OneDrive\\Documents\\BlurApi-main\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAYwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T17:54:05.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CompaniesController.cs",
+              "DocumentMoniker": "C:\\Users\\durmu\\OneDrive\\Documents\\BlurApi-main\\Controllers\\CompaniesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CompaniesController.cs",
+              "ToolTip": "C:\\Users\\durmu\\OneDrive\\Documents\\BlurApi-main\\Controllers\\CompaniesController.cs",
+              "RelativeToolTip": "Controllers\\CompaniesController.cs",
+              "ViewState": "AgIAANAAAAAAAAAAAAAuwN4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T15:30:06.026Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

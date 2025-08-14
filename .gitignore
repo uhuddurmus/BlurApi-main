@@ -1,0 +1,39 @@
+# Build sonuçları
+bin/
+obj/
+out/
+
+# VS Code
+.vscode/
+
+# Rider
+.idea/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Paketler
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+
+# ASP.NET Core
+wwwroot/lib/
+
+# Log dosyaları
+*.log
+
+# Dotnet tool
+.dotnet/
+*.dotnet/
+
+# OS dosyaları
+.DS_Store
+Thumbs.db
+
+# Publish sonuçları
+publish/

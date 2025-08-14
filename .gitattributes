@@ -1,0 +1,17 @@
+# C# dosyaları için
+*.cs text diff=csharp
+*.csproj text merge=union
+*.sln text merge=union
+
+# JSON dosyaları
+*.json text
+
+# XML dosyaları
+*.xml text
+
+# YAML/ yml
+*.yml text
+*.yaml text
+
+# Markdown
+*.md text
